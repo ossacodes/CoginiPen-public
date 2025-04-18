@@ -4,7 +4,7 @@
 
 ## Introduction
 
-At CogniPen ("we," "our," or "us"), we respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our CogniPen mobile application and related services.
+At CogniPen, we respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our CogniPen mobile application and related services.
 
 Please read this Privacy Policy carefully. By accessing or using CogniPen, you acknowledge that you have read, understood, and agree to be bound by the terms of this Privacy Policy.
 
